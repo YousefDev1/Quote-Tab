@@ -139,7 +139,7 @@ if(getQuoteLang == 'ar') {
 
 /////////////////////////
 
-/*
+
 numTime.value = localStorage.getItem('waitTime');
 
 checkBoxTime.addEventListener('change', ()=>{
@@ -157,7 +157,7 @@ checkBoxTime.addEventListener('change', ()=>{
     }
     
 })
-*/
+
 
 ////////////////////////////
 
@@ -214,7 +214,7 @@ shareClose.addEventListener('click', ()=>{
 
 
 
-/*
+
 $(document).ready(function () {
     
 
@@ -269,4 +269,4 @@ $(document).ready(function () {
             root.style.background = 'url('+ data[0].urls.regular +')';
         }
     );
-});*/
+});
